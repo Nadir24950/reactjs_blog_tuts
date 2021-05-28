@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "nadir",
+      "body": "nadir",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
